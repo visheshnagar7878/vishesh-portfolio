@@ -1,47 +1,36 @@
-# Interactive-Portfolio
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-[![GitHub](https://img.shields.io/github/license/AjitVerma15/Interactive-Portfolio?color=green)](https://img.shields.io/github/license/AjitVerma15/Interactive-Portfolio)
+## Getting Started
 
-## A Resposive and attractive portfolio for Developers 🔥
+First, run the development server:
 
-A clean, beautiful and responsive portfolio templete with using only HTML and css.
-Later on add some javascript for animation and designing.
-visit the website [here.](https://ajitverma15.github.io/Interactive-Portfolio/)
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-![ezgif com-optimize](https://user-images.githubusercontent.com/53833570/87217363-f9e6ff00-c365-11ea-9e1a-4d017964f2b4.gif)
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Sections:
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-💥 About me\
-💥 Education\
-💥 Cretification\
-💥 Skills\
-💥 Projects\
-💥 Contact me
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Technology used:
+## Learn More
 
-- HTML
-- CSS
+To learn more about Next.js, take a look at the following resources:
 
-## Illustration and Images
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-- [Undraw](https://undraw.co/)
-- [Hackerblock](https://hack.codingblocks.com/)
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## For the Future
-If you can help us with these. Please don't hesitate to open a pull request.
+## Deploy on Vercel
 
-- Add a page loader
-- Add some Animation
-- Add some more Section
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-## Updates
-
-- Added Dark Mode
-
-  ![Dark Mode](https://github.com/AjitVerma15/Interactive-Portfolio/blob/master/Image/dark-mode-update.gif) - [PR](https://github.com/AjitVerma15/Interactive-Portfolio/pull/18) 16/08/2025
-
-## Reference
-
-Some Design idea are taken from [Ashutosh Hathidara](https://github.com/ashutosh1919/masterPortfolio)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
